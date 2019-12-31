@@ -4,5 +4,5 @@ div .tag-1 {display: none;}
 #wall div#tag-2 {display: none;}
 body div#wall div#tag-3.slick.wicked {display: none;}
 #wall div.parent + #tag-4 {display: none;}
-#wall .parent + #tag-5 .slick {display: none;}
+#wall .parent div#tag-5 .slick {display: none;}
 #tag-6 {display: none;}
